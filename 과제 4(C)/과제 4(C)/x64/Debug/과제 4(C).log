@@ -1,0 +1,5 @@
+﻿  20232907 정현승 과제 4 C 코드.c
+D:\OneDrive - 중앙대학교\2학년 1학기\자료구조\과제\과제 4(C)\20232907 정현승 과제 4 C 코드.c(104,93): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+D:\OneDrive - 중앙대학교\2학년 1학기\자료구조\과제\과제 4(C)\20232907 정현승 과제 4 C 코드.c(104,56): warning C4113: 'int (__cdecl *)(Word *,Word *)'은(는) '_CoreCrtNonSecureSearchSortCompareFunction'과(와) 매개 변수 목록이 다릅니다.
+D:\OneDrive - 중앙대학교\2학년 1학기\자료구조\과제\과제 4(C)\20232907 정현승 과제 4 C 코드.c(298,23): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  과제 4(C).vcxproj -> D:\OneDrive - 중앙대학교\2학년 1학기\자료구조\과제\과제 4(C)\x64\Debug\과제 4(C).exe
